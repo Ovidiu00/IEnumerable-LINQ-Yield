@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LINQ-IEnumerable-IQueryable-Yield/1.0.0": {
+        "runtime": {
+          "LINQ-IEnumerable-IQueryable-Yield.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ-IEnumerable-IQueryable-Yield/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

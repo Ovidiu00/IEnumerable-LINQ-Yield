@@ -1,0 +1,16 @@
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.csproj.AssemblyReference.cache
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.AssemblyInfoInputs.cache
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.AssemblyInfo.cs
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.csproj.CoreCompileInputs.cache
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.exe
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.deps.json
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.runtimeconfig.json
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.runtimeconfig.dev.json
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.dll
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\ref\LINQ-IEnumerable-IQueryable-Yield.dll
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\bin\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.pdb
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.dll
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\ref\LINQ-IEnumerable-IQueryable-Yield.dll
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.pdb
+C:\Users\PEA5CLJ\source\repos\LINQ-IEnumerable-IQueryable-Yield\LINQ-IEnumerable-IQueryable-Yield\obj\Debug\net5.0\LINQ-IEnumerable-IQueryable-Yield.genruntimeconfig.cache
